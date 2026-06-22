@@ -3,7 +3,7 @@ import './Footer.css';
 
 const Footer = () => (
   <footer>
-    <p>© 2025 School Notice Board | Built with ❤️ using React</p>
+    <p>© 2025 School Notice Board</p>
   </footer>
 );
 
