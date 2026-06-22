@@ -1,0 +1,26 @@
+{
+  "name": "school-notice",
+  "version": "1.0.0",
+  "description": "A full-stack MERN application for managing school notices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachitha05/school-notice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachitha05/school-notice/issues"
+  },
+  "homepage": "https://github.com/Rachitha05/school-notice#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.0",
+    "nodemon": "^3.1.14"
+  }
+}

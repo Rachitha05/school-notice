@@ -34,7 +34,7 @@
 **Solution:**
 - Make sure backend is running on port 8080
 - Check that `cors` is installed in backend: `npm install cors`
-- Verify `.env` file in reactapp has: `REACT_APP_API_URL=http://localhost:8080/api`
+- Verify `.env` file in reactapp has: `VITE_API_URL=http://localhost:8080/api`
 
 ### 4. Module Not Found
 
