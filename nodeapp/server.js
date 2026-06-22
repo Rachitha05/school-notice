@@ -7,7 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 
 app.use(cors({
-    origin: "https://your-frontend.onrender.com",
+    origin: "https://school-notice-frontend.onrender.com",
     credentials: true
   }));
 app.use(express.json());
