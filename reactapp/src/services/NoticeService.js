@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // ✅ The backend URL (defined in your .env file as REACT_APP_API_URL)
-const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8080/api";
+const API_URL = process.env.REACT_APP_API_URL || "https://school-notice-1.onrender.com/api";
 
 // ✅ Service object that contains all API methods
 const NoticeService = {
